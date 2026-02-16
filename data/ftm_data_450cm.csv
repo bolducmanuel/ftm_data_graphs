@@ -1,6 +1,4 @@
 physical_distance_cm,frame_count,burst_period,estimated_distance_cm,rtt_ns,elapsed_ms
-# Starting automated sampling: 13 configs x 1000 samples = 13000 total
-# Config 1/13: frame_count=16, burst_period=2
 450,16,2,1245,83,321
 450,16,2,1170,78,298
 450,16,2,1125,75,302
